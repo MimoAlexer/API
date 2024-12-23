@@ -1,0 +1,14 @@
+/home/mimoalexer/RiderProjects/APIGame/bin/Debug/net9.0/APIGame
+/home/mimoalexer/RiderProjects/APIGame/bin/Debug/net9.0/APIGame.deps.json
+/home/mimoalexer/RiderProjects/APIGame/bin/Debug/net9.0/APIGame.runtimeconfig.json
+/home/mimoalexer/RiderProjects/APIGame/bin/Debug/net9.0/APIGame.dll
+/home/mimoalexer/RiderProjects/APIGame/bin/Debug/net9.0/APIGame.pdb
+/home/mimoalexer/RiderProjects/APIGame/obj/Debug/net9.0/APIGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/mimoalexer/RiderProjects/APIGame/obj/Debug/net9.0/APIGame.AssemblyInfoInputs.cache
+/home/mimoalexer/RiderProjects/APIGame/obj/Debug/net9.0/APIGame.AssemblyInfo.cs
+/home/mimoalexer/RiderProjects/APIGame/obj/Debug/net9.0/APIGame.csproj.CoreCompileInputs.cache
+/home/mimoalexer/RiderProjects/APIGame/obj/Debug/net9.0/APIGame.dll
+/home/mimoalexer/RiderProjects/APIGame/obj/Debug/net9.0/refint/APIGame.dll
+/home/mimoalexer/RiderProjects/APIGame/obj/Debug/net9.0/APIGame.pdb
+/home/mimoalexer/RiderProjects/APIGame/obj/Debug/net9.0/APIGame.genruntimeconfig.cache
+/home/mimoalexer/RiderProjects/APIGame/obj/Debug/net9.0/ref/APIGame.dll
